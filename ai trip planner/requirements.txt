@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain_groq
+python-dotenv
+google-search-results
+pydantic
+langsmith 
+streamlit
